@@ -1,28 +1,28 @@
 ,YEAR,MOVIE,GENRE,MPAA RATING,DISTRIBUTOR,TOTAL FOR YEAR,TOTAL IN 2019 DOLLARS,TICKETS SOLD
-0,1995,Batman Forever,Drama,PG-13,Warner Bros.,"$184,031,112","$387,522,978","4,23,06,002"
-1,1996,Independence Day,Adventure,PG-13,20th Century Fox,"$306,169,255","$634,504,608","6,92,69,062"
-2,1997,Men in Black,Adventure,PG-13,Sony Pictures,"$250,650,052","$500,207,943","5,46,07,854"
-3,1998,Titanic,Adventure,PG-13,Paramount Pictures,"$443,319,081","$865,842,808","9,45,24,324"
-4,1999,Star Wars Ep. I: The Phantom Menace,Adventure,PG,20th Century Fox,"$430,443,350","$776,153,749","8,47,32,942"
-5,2000,How the Grinch Stole Christmas,Adventure,PG,Universal,"$253,367,455","$430,583,644","4,70,06,948"
-6,2001,Harry Potter and the Sorcerer’s Stone,Adventure,PG,Warner Bros.,"$300,404,434","$486,166,890","5,30,74,988"
-7,2002,Spider-Man,Adventure,PG-13,Sony Pictures,"$403,706,375","$636,480,273","6,94,84,746"
-8,2003,Finding Nemo,Adventure,G,Walt Disney,"$339,714,367","$516,050,346","5,63,37,374"
-9,2004,Shrek 2,Adventure,PG,Dreamworks SKG,"$441,226,247","$650,826,473","7,10,50,925"
-10,2005,Star Wars Ep. III: Revenge of the Sith,Action,PG-13,20th Century Fox,"$380,270,577","$543,413,171","5,93,24,582"
-11,2006,Pirates of the Caribbean: Dead Man’s Chest,Action,PG-13,Walt Disney,"$423,315,812","$591,995,851","6,46,28,368"
-12,2007,Spider-Man 3,Adventure,PG-13,Sony Pictures,"$336,530,303","$448,054,878","4,89,14,288"
-13,2008,The Dark Knight,Adventure,PG-13,Warner Bros.,"$531,001,578","$677,433,772","7,39,55,652"
-14,2009,Transformers: Revenge of the Fallen,Action,PG-13,Paramount Pictures,"$402,111,870","$491,112,631","5,36,14,916"
-15,2010,Toy Story 3,Action,G,Walt Disney,"$415,004,880","$481,805,411","5,25,98,844"
-16,2011,Harry Potter and the Deathly Hallows: Part II,Action,PG-13,Warner Bros.,"$381,011,219","$440,108,798","4,80,46,812"
-17,2012,The Avengers,Adventure,PG-13,Walt Disney,"$623,357,910","$717,331,462","7,83,11,295"
-18,2013,Iron Man 3,Adventure,PG-13,Walt Disney,"$408,992,272","$460,808,016","5,03,06,552"
-19,2014,Guardians of the Galaxy,Adventure,PG-13,Walt Disney,"$333,055,258","$373,413,235","4,07,65,637"
-20,2015,Star Wars Ep. VII: The Force Awakens,Action,PG-13,Walt Disney,"$742,208,942","$806,480,887","8,80,43,765"
-21,2016,Finding Dory,Action,PG,Walt Disney,"$486,295,561","$514,967,322","5,62,19,140"
-22,2017,Star Wars Ep. VIII: The Last Jedi,Action,PG-13,Walt Disney,"$517,218,368","$528,173,936","5,76,60,910"
-23,2018,Black Panther,Action,PG-13,Walt Disney,"$700,059,566","$703,901,821","7,68,45,177"
-24,2019,Avengers: Endgame,Action,PG-13,Walt Disney,"$858,373,000","$858,373,002","9,37,08,843"
-25,2020,Bad Boys For Life,Action,R,Sony Pictures,"$204,417,855","$204,417,848","2,23,16,359"
-26,2021,Shang-Chi and the Legend of the Ten Rings,Action,PG-13,Walt Disney,"$224,226,704","$224,226,704","2,44,78,897"
+0,1995,Batman Forever,Drama,PG-13,Warner Bros.,184031112.0,387522978.0,42306002.0
+1,1996,Independence Day,Adventure,PG-13,20th Century Fox,306169255.0,634504608.0,69269062.0
+2,1997,Men in Black,Adventure,PG-13,Sony Pictures,250650052.0,500207943.0,54607854.0
+3,1998,Titanic,Adventure,PG-13,Paramount Pictures,443319081.0,865842808.0,94524324.0
+4,1999,Star Wars Ep. I: The Phantom Menace,Adventure,PG,20th Century Fox,430443350.0,776153749.0,84732942.0
+5,2000,How the Grinch Stole Christmas,Adventure,PG,Universal,253367455.0,430583644.0,47006948.0
+6,2001,Harry Potter and the Sorcerer’s Stone,Adventure,PG,Warner Bros.,300404434.0,486166890.0,53074988.0
+7,2002,Spider-Man,Adventure,PG-13,Sony Pictures,403706375.0,636480273.0,69484746.0
+8,2003,Finding Nemo,Adventure,G,Walt Disney,339714367.0,516050346.0,56337374.0
+9,2004,Shrek 2,Adventure,PG,Dreamworks SKG,441226247.0,650826473.0,71050925.0
+10,2005,Star Wars Ep. III: Revenge of the Sith,Action,PG-13,20th Century Fox,380270577.0,543413171.0,59324582.0
+11,2006,Pirates of the Caribbean: Dead Man’s Chest,Action,PG-13,Walt Disney,423315812.0,591995851.0,64628368.0
+12,2007,Spider-Man 3,Adventure,PG-13,Sony Pictures,336530303.0,448054878.0,48914288.0
+13,2008,The Dark Knight,Adventure,PG-13,Warner Bros.,531001578.0,677433772.0,73955652.0
+14,2009,Transformers: Revenge of the Fallen,Action,PG-13,Paramount Pictures,402111870.0,491112631.0,53614916.0
+15,2010,Toy Story 3,Action,G,Walt Disney,415004880.0,481805411.0,52598844.0
+16,2011,Harry Potter and the Deathly Hallows: Part II,Action,PG-13,Warner Bros.,381011219.0,440108798.0,48046812.0
+17,2012,The Avengers,Adventure,PG-13,Walt Disney,623357910.0,717331462.0,78311295.0
+18,2013,Iron Man 3,Adventure,PG-13,Walt Disney,408992272.0,460808016.0,50306552.0
+19,2014,Guardians of the Galaxy,Adventure,PG-13,Walt Disney,333055258.0,373413235.0,40765637.0
+20,2015,Star Wars Ep. VII: The Force Awakens,Action,PG-13,Walt Disney,742208942.0,806480887.0,88043765.0
+21,2016,Finding Dory,Action,PG,Walt Disney,486295561.0,514967322.0,56219140.0
+22,2017,Star Wars Ep. VIII: The Last Jedi,Action,PG-13,Walt Disney,517218368.0,528173936.0,57660910.0
+23,2018,Black Panther,Action,PG-13,Walt Disney,700059566.0,703901821.0,76845177.0
+24,2019,Avengers: Endgame,Action,PG-13,Walt Disney,858373000.0,858373002.0,93708843.0
+25,2020,Bad Boys For Life,Action,R,Sony Pictures,204417855.0,204417848.0,22316359.0
+26,2021,Shang-Chi and the Legend of the Ten Rings,Action,PG-13,Walt Disney,224226704.0,224226704.0,24478897.0
